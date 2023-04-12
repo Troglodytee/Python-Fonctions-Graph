@@ -17,10 +17,10 @@ This is a program that allows you to draw the representative curve of functions 
 3. Run `main.pyw`
 ## Requirements
 - Python 3.7
-- Python tkinter library
-- Python math library
-- Python os library
-- Python PIL library
-- Python time library
+- Python `tkinter` library
+- Python `math` library
+- Python `os` library
+- Python `PIL` library
+- Python `time` library
 ## Usage
 In `Affichage` in the menu bar you can show hidden panels.
